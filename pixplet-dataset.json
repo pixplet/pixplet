@@ -1,5 +1,518 @@
 [
     {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Colorful-Citrus-Table-Setting-for-Summer-Dining.jpg",
+        "alt_text": "A vibrant summer table with citrus decor, floral tablecloth, lemonade, and a place setting featuring an orange slice.",
+        "description": "This vivid summer table setup includes a citrus-themed cloth, vibrant flowers, and a refreshing glass of lemonade, perfect for warm-weather entertaining. The bright orange slice and bold colors bring energy to the place setting.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/colorful-citrus-table-setting-for-summer-dining/",
+        "tags": [
+            "Bright Colors",
+            "Citrus Decor",
+            "Colorful Picnic",
+            "Floral Tablecloth",
+            "Fresh Flowers",
+            "Lemon Drink",
+            "Orange Slice",
+            "Outdoor Dining",
+            "Summer Table",
+            "Tropical Setting"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Glass-Vases-Filled-with-Seashells-and-Sand.jpg",
+        "alt_text": "Three clear glass vases filled with fine sand and assorted seashells arranged on a wooden surface outdoors.",
+        "description": "Clear glass vases hold delicate layers of soft sand and an assortment of seashells, offering a refined coastal touch to outdoor decor. Perfect for a beach-themed table centerpiece or summer patio accent.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/glass-vases-filled-with-seashells-and-sand/",
+        "tags": [
+            "Beach Decor",
+            "Coastal Style",
+            "Glass Vases",
+            "Natural Elements",
+            "Nautical Touch",
+            "Outdoor Centerpiece",
+            "Sand Fill",
+            "Seaside Theme",
+            "Shell Arrangement",
+            "Summer Display"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Lavender-and-Candles-on-Wooden-Tray.jpg",
+        "alt_text": "Lit candles and fresh lavender in a mason jar arranged on a wooden tray placed on an outdoor wooden table.",
+        "description": "Three glowing candles and a jar of vibrant lavender arranged on a rustic wooden tray bring a serene, natural feel to this garden table setting—perfect for tranquil outdoor evenings.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/lavender-and-candles-on-wooden-tray/",
+        "tags": [
+            "Candle Display",
+            "Floral Arrangement",
+            "Garden Decor",
+            "Lavender Bouquet",
+            "Mason Jar",
+            "Outdoor Ambience",
+            "Rustic Setting",
+            "Scented Candles",
+            "Summer Table",
+            "Wooden Tray"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Floating-Candles-and-Flowers-in-Glass-Bowl.jpg",
+        "alt_text": "Three lit floating candles and colorful flowers in a clear glass bowl filled with water on a wooden table.",
+        "description": "A serene glass bowl filled with water, glowing candles, and floating pink, white, and yellow flowers creates a peaceful, decorative arrangement perfect for outdoor tables or relaxing summer evenings.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/floating-candles-and-flowers-in-glass-bowl/",
+        "tags": [
+            "Colorful Flowers",
+            "Floating Candles",
+            "Floral Display",
+            "Garden Candlelight",
+            "Glass Bowl",
+            "Outdoor Mood",
+            "Peaceful Arrangement",
+            "Summer Centerpiece",
+            "Water Decor",
+            "Wooden Table"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Candle-Lantern-at-Sunset-on-Grass.jpg",
+        "alt_text": "A lit candle inside a black metal lantern placed on grass during a vivid sunset with an orange and red sky.",
+        "description": "A softly glowing lantern with a burning candle sits on the grass as the sun sets in the background, casting a warm orange hue across the sky. A tranquil and inviting moment perfect for summer evenings.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/candle-lantern-at-sunset-on-grass/",
+        "tags": [
+            "Burning Candle",
+            "Candle Lantern",
+            "Evening Light",
+            "Garden Decor",
+            "Golden Hour",
+            "Metal Lantern",
+            "Outdoor Ambiance",
+            "Peaceful Moment",
+            "Rustic Charm",
+            "Sunset Glow"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Fresh-Lemonade-Bar-with-Mason-Jar-Glasses.jpg",
+        "alt_text": "A lemonade dispenser with sliced lemons and mint, next to four mason jars with straws and a Lemonade Bar sign.",
+        "description": "This lemonade bar setup features a glass dispenser with citrus slices and mint, alongside mason jars with striped straws and lemon wheels. Perfect for outdoor gatherings, it adds a bright and refreshing touch to any summer event.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/fresh-lemonade-bar-with-mason-jar-glasses/",
+        "tags": [
+            "Citrus Station",
+            "Drink Bar",
+            "Lemonade Dispenser",
+            "Mason Jars",
+            "Mint Lemon",
+            "Outdoor Refreshment",
+            "Party Setup",
+            "Picnic Table",
+            "Summer Drinks",
+            "Yellow Theme"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Citrus-and-Flower-Centerpiece-with-Green-Leaves.jpg",
+        "alt_text": "A table centerpiece made of oranges, lemons, strawberries, flowers, and green leaves arranged on a light wooden surface.",
+        "description": "This lively table centerpiece blends citrus fruits, strawberries, green foliage, and fresh flowers to create a bright and festive summer display that radiates freshness and color on a natural wood surface.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/citrus-and-flower-centerpiece-with-green-leaves/",
+        "tags": [
+            "Bright Colors",
+            "Citrus Centerpiece",
+            "Floral Accent",
+            "Fresh Arrangement",
+            "Fruit Display",
+            "Garden Party",
+            "Green Leaves",
+            "Lemon Orange",
+            "Summer Decor",
+            "Table Styling"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Hanging-Mason-Jar-Lanterns-with-Candles.jpg",
+        "alt_text": "Three lit candles inside mason jars hanging from twine outdoors in soft evening light.",
+        "description": "These glowing mason jar lanterns hang from rustic twine, each holding a lit candle that adds warmth and ambiance to outdoor evenings. A beautiful blend of practicality and charm for garden parties or backyard decor.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/hanging-mason-jar-lanterns-with-candles/",
+        "tags": [
+            "Backyard Charm",
+            "Candle Light",
+            "Evening Glow",
+            "Garden Ambience",
+            "Hanging Jars",
+            "Mason Lanterns",
+            "Outdoor Lighting",
+            "Rustic Decor",
+            "Twine Suspension",
+            "Warm Illumination"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Colorful-Tabletop-Windmill-on-Outdoor-Deck.jpg",
+        "alt_text": "A small windmill with red, blue, yellow, and white blades mounted on a wooden base placed on a patio table next to a potted plant.",
+        "description": "This playful tabletop windmill with bold-colored blades brightens a wooden deck table next to a potted plant, adding charm and color to any garden, patio, or backyard setup with its retro-inspired design and cheerful palette.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/colorful-tabletop-windmill-on-outdoor-deck/",
+        "tags": [
+            "Colorful Fan",
+            "Garden Ornament",
+            "Metal Sculpture",
+            "Outdoor Accent",
+            "Patio Decor",
+            "Retro Colors",
+            "Summer Display",
+            "Table Windmill",
+            "Toy Spinner",
+            "Wooden Table"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Coastal-Shell-Wreath-with-Dried-Grass-on-Wood.jpg",
+        "alt_text": "A decorative wreath made of seashells and dried grass arranged in a circle and placed on a light wooden background.",
+        "description": "This elegant wreath combines seashells and dried grass in a circular design on a wooden background, adding a warm coastal accent ideal for beach house decor or seasonal summer styling.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/coastal-shell-wreath-with-dried-grass-on-wood/",
+        "tags": [
+            "Beach Style",
+            "Coastal Decor",
+            "Dried Grass",
+            "Handmade Craft",
+            "Natural Wreath",
+            "Rustic Ornament",
+            "Seaside Theme",
+            "Shell Wreath",
+            "Summer Accent",
+            "Wooden Background"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Framed-Summer-Beach-Photos-with-Tropical-Vibes.jpg",
+        "alt_text": "Six beach photos with ocean views, palm trees, flip-flops, and a sun hat displayed in a wooden frame with clothespins.",
+        "description": "This framed beach photo display showcases six vibrant images of sun, sand, and sea using mini clothespins on twine, highlighted by a yellow hibiscus flower for a breezy summer aesthetic perfect for wall decor.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/framed-summer-beach-photos-with-tropical-vibes/",
+        "tags": [
+            "Beach Photos",
+            "Flip Flops",
+            "Hibiscus Flower",
+            "Ocean Views",
+            "Palm Trees",
+            "Photo Display",
+            "Seaside Vibes",
+            "Summer Decor",
+            "Sun Hat",
+            "Wooden Frame"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Shell-and-Bead-Hanging-Curtain-in-Natural-Light.jpg",
+        "alt_text": "Strings of round white shells and translucent beads hanging vertically in soft sunlight with greenery in the background.",
+        "description": "This delicate hanging curtain made of round shells and translucent beads glows in the sunlight, adding a natural, breezy charm perfect for garden settings, porches, or beach-inspired interiors.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/shell-and-bead-hanging-curtain-in-natural-light/",
+        "tags": [
+            "Beaded Strings",
+            "Boho Decoration",
+            "Coastal Style",
+            "Hanging Ornament",
+            "Natural Decor",
+            "Outdoor Divider",
+            "Seaside Vibe",
+            "Shell Curtain",
+            "Summer Accent",
+            "Sunlit Backdrop"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Citrus-Slice-Garland-Hanging-Outdoors.jpg",
+        "alt_text": "Slices of lemons and oranges strung on twine and hanging in rows outdoors with a green, leafy background.",
+        "description": "This creative citrus garland features alternating lemon and orange slices strung across twine, adding a fresh and colorful touch to outdoor gatherings or summer parties with its vibrant, natural charm.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/citrus-slice-garland-hanging-outdoors/",
+        "tags": [
+            "Citrus Garland",
+            "Fresh Decoration",
+            "Fruit Banner",
+            "Garden Party",
+            "Lemon Slices",
+            "Natural Craft",
+            "Orange Slices",
+            "Outdoor Hanging",
+            "Summer Decor",
+            "Zesty Theme"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Evening-Garden-Dinner-with-Lanterns-and-Flowers.jpg",
+        "alt_text": "A table set for dinner in a flower garden with glowing paper lanterns, candles, and a pot of colorful zinnias.",
+        "description": "This magical garden dinner setting features hanging paper lanterns, glowing candles, and a table decorated with zinnias and fruit, inviting guests to dine under soft light surrounded by blooming flowers.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/evening-garden-dinner-with-lanterns-and-flowers/",
+        "tags": [
+            "Candle Decor",
+            "Dinner Setup",
+            "Festive Gathering",
+            "Floral Table",
+            "Garden Dinner",
+            "Outdoor Lights",
+            "Paper Lanterns",
+            "Romantic Ambiance",
+            "Summer Evening",
+            "Zinnia Flowers"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Nautical-Bunting-Flags-Hanging-Between-Trees.jpg",
+        "alt_text": "Colorful nautical-themed fabric pennants with anchors, shells, and stripes hanging on a string between two trees.",
+        "description": "This cheerful string of nautical-themed bunting features colorful flags with maritime symbols, perfect for summer garden parties or beach-inspired outdoor decor. The flags hang between trees in a lush green setting.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/nautical-bunting-flags-hanging-between-trees/",
+        "tags": [
+            "Anchor Banner",
+            "Beach Party",
+            "Coastal Style",
+            "Colorful Flags",
+            "Fabric Pennants",
+            "Garden Decoration",
+            "Nautical Bunting",
+            "Outdoor Decor",
+            "String Garland",
+            "Summer Flags"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Round-Driftwood-Mirror-Reflecting-Garden-View.jpg",
+        "alt_text": "A round mirror with a driftwood frame hanging on a beige wall, reflecting trees and greenery from the garden.",
+        "description": "This decorative driftwood-framed mirror reflects a lush garden with palm trees and greenery, offering a rustic and nature-inspired accent to any patio or exterior wall.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/round-driftwood-mirror-reflecting-garden-view/",
+        "tags": [
+            "Coastal Style",
+            "Driftwood Mirror",
+            "Garden Reflection",
+            "Handmade Design",
+            "Nature Inspired",
+            "Outdoor Mirror",
+            "Patio Decor",
+            "Rustic Frame",
+            "Wall Decor",
+            "Wooden Accent"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Hanging-Clay-Pots-with-Colorful-Summer-Flowers.jpg",
+        "alt_text": "Four macrame-hung terracotta pots with blooming pink, purple, and orange flowers on a patio background.",
+        "description": "These hanging planters feature vivid summer flowers in terracotta pots, suspended with decorative macrame rope on a patio, adding a cheerful and natural accent to any outdoor living space.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/hanging-clay-pots-with-colorful-summer-flowers/",
+        "tags": [
+            "Blooming Plants",
+            "Colorful Petunias",
+            "Floral Arrangement",
+            "Garden Display",
+            "Hanging Planters",
+            "Macrame Hangers",
+            "Outdoor Decor",
+            "Patio Accent",
+            "Summer Flowers",
+            "Terracotta Pots"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Summer-Themed-Postcards-on-Cork-Bulletin-Board.jpg",
+        "alt_text": "Colorful summer-themed postcards with beach items and tropical drinks pinned to a cork bulletin board.",
+        "description": "This cheerful collage of summer-themed postcards displays playful beach illustrations, fruity drinks, and hand-lettered messages on a cork board, capturing the warmth and fun of the season in a nostalgic and colorful presentation.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/summer-themed-postcards-on-cork-bulletin-board/",
+        "tags": [
+            "Beach Illustrations",
+            "Bulletin Board",
+            "Citrus Art",
+            "Flip Flops",
+            "Hello Summer",
+            "Ice Cream",
+            "Lemon Slices",
+            "Summer Postcards",
+            "Tropical Drinks",
+            "Vacation Vibes"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Bike-Wheel-Garden-Decor-with-Colorful-Flowers.jpg",
+        "alt_text": "An old white bicycle wheel decorated with pink, orange, and yellow flowers standing upright on a green lawn.",
+        "description": "This inventive garden decor features a painted bicycle wheel decorated with fresh pink, orange, and yellow flowers, standing on a grassy lawn as a creative and eye-catching floral display for outdoor spaces.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/bike-wheel-garden-decor-with-colorful-flowers/",
+        "tags": [
+            "Backyard Accent",
+            "Bicycle Wheel",
+            "Creative Planter",
+            "Floral Display",
+            "Garden Decoration",
+            "Outdoor Art",
+            "Pink Zinnias",
+            "Recycled Craft",
+            "Rustic Decor",
+            "Summer Flowers"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Outdoor-Gazebo-with-Lights-and-Wooden-Furniture.jpg",
+        "alt_text": "A gazebo with sheer white curtains, hanging string lights, and a wooden table with chairs and candles at dusk.",
+        "description": "This elegant garden gazebo features sheer curtains, warm string lights, and a cozy wooden table arrangement with candlelight and flowers—perfect for romantic dinners or quiet outdoor relaxation at dusk.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/outdoor-gazebo-with-lights-and-wooden-furniture/",
+        "tags": [
+            "Backyard Retreat",
+            "Candle Decor",
+            "Evening Ambiance",
+            "Garden Gazebo",
+            "Night Garden",
+            "Outdoor Lighting",
+            "Romantic Setup",
+            "Sheer Curtains",
+            "String Lights",
+            "Wooden Furniture"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Painted-Summer-Rocks-with-Beach-Icons.jpg",
+        "alt_text": "Blue-painted stones featuring summer icons like a sun, sailboat, flip-flops, and the word “SUMMER” on a wooden surface.",
+        "description": "These hand-painted rocks showcase playful summer motifs such as a sun, umbrella, and seashells on vibrant blue backgrounds, arranged neatly on a wooden surface to create a cheerful seasonal decoration or craft idea.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/painted-summer-rocks-with-beach-icons/",
+        "tags": [
+            "Beach Theme",
+            "Blue Stones",
+            "Creative Painting",
+            "DIY Crafts",
+            "Fun Illustrations",
+            "Handcrafted Objects",
+            "Outdoor Art",
+            "Painted Rocks",
+            "Seasonal Design",
+            "Summer Decor"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Tealight-Candles-in-Coconut-Shell-Holders.jpg",
+        "alt_text": "Three tealight candles burning inside coconut shell holders placed on a wooden outdoor table.",
+        "description": "These glowing tealight candles in coconut shell holders sit atop a wooden table, combining natural textures with soft ambient light, perfect for outdoor evenings or eco-friendly decorative setups.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/tealight-candles-in-coconut-shell-holders/",
+        "tags": [
+            "Candlelight Glow",
+            "Coconut Candle",
+            "Eco Decor",
+            "Evening Ambiance",
+            "Natural Materials",
+            "Outdoor Decor",
+            "Rustic Style",
+            "Tealight Holder",
+            "Tropical Mood",
+            "Wooden Table"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Colorful-Pallet-Sofa-with-Outdoor-Cushions.jpg",
+        "alt_text": "A bright outdoor sofa made of wooden pallets with colorful cushions and a matching low pallet table on a brick patio.",
+        "description": "This DIY outdoor lounge set features a pallet-built sofa with bold, colorful cushions and matching striped pillows, paired with a low wooden table on a brick patio, creating a cozy and cheerful garden seating area.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/colorful-pallet-sofa-with-outdoor-cushions/",
+        "tags": [
+            "Backyard Design",
+            "Bright Cushions",
+            "Colorful Pillows",
+            "DIY Lounge",
+            "Garden Seating",
+            "Outdoor Furniture",
+            "Pallet Sofa",
+            "Patio Setup",
+            "Summer Decor",
+            "Wooden Pallets"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Wicker-Picnic-Basket-with-Fresh-Flowers.jpg",
+        "alt_text": "A wicker picnic basket with a red checkered cloth and yellow and white flowers placed on a grassy field.",
+        "description": "This cozy wicker picnic basket sits on a grassy field with a red checkered cloth and a cheerful bunch of daisies and zinnias tucked into its handle, offering a warm, summery aesthetic perfect for outdoor relaxation.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/wicker-picnic-basket-with-fresh-flowers/",
+        "tags": [
+            "Checkered Fabric",
+            "Daisy Bouquet",
+            "Floral Accent",
+            "Garden Picnic",
+            "Outdoor Setting",
+            "Picnic Basket",
+            "Red Cloth",
+            "Rustic Style",
+            "Summer Flowers",
+            "Wicker Texture"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Wooden-Swing-with-Summer-Decor.jpg",
+        "alt_text": "A wooden swing hanging from ropes with summer-themed decorations including a starfish, shell, pineapple, and a sign.",
+        "description": "This inviting wooden swing adorned with a starfish, seashell, pineapple, and a “SUMMER” sign creates a perfect seasonal touch in a sunny outdoor setting, blending rustic charm with tropical vibes.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/wooden-swing-with-summer-decor/",
+        "tags": [
+            "Beach Theme",
+            "Grass Lawn",
+            "Nature Backdrop",
+            "Outdoor Swing",
+            "Pineapple Decor",
+            "Rustic Style",
+            "Seasonal Decor",
+            "Summer Decoration",
+            "Tree Shade",
+            "Wooden Swing"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Colorful-Pinwheels-on-a-Sunny-Lawn.jpg",
+        "alt_text": "Five colorful plastic pinwheels on wooden sticks standing upright on a green grassy lawn in bright sunlight.",
+        "description": "A cheerful row of five pinwheels in vivid colors and patterns stands on green grass under a sunny sky, capturing a playful summer vibe perfect for outdoor decoration or children&#8217;s activities.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/colorful-pinwheels-on-a-sunny-lawn/",
+        "tags": [
+            "Bright Colors",
+            "Colorful Spinner",
+            "Garden Toy",
+            "Kids Playground",
+            "Lawn Ornament",
+            "Outdoor Fun",
+            "Plastic Pinwheel",
+            "Play Object",
+            "Summer Decoration",
+            "Wind Propeller"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Miniature-Cottage-in-a-Glass-Jar-Garden.jpg",
+        "alt_text": "A small wooden cottage with a red roof inside a glass jar surrounded by moss, flowers, and mushrooms.",
+        "description": "This delightful miniature world in a jar shows a tiny cottage with a red roof nestled among moss, yellow and pink flowers, toadstools, and a winding stone path—perfectly capturing the essence of a fairytale garden.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/miniature-cottage-in-a-glass-jar-garden/",
+        "tags": [
+            "Fairy Cottage",
+            "Flower Arrangement",
+            "Garden Scene",
+            "Glass Display",
+            "Jar Garden",
+            "Miniature House",
+            "Moss Decor",
+            "Tiny Landscape",
+            "Toy Mushrooms",
+            "Whimsical Terrarium"
+        ]
+    },
+    {
         "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/White-Cliffside-Villa-with-Private-Infinity-Pool.jpg",
         "alt_text": "Modern white villa with pool and loungers on a rocky cliffside overlooking turquoise sea water.",
         "description": "This sleek cliffside villa offers striking sea views, a private pool with loungers, and clean white architecture. Perched above turquoise waters, it’s a serene and stylish escape with unmatched oceanfront privacy.",
