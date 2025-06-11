@@ -1,5 +1,946 @@
 [
     {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Savory-Pancake-with-Stew-Cheese-and-Pickles.jpg",
+        "alt_text": "A savory pancake filled with meat and vegetables, topped with shredded cheese, served with pickles and salad.",
+        "description": "This savory pancake is stuffed with a rich meat and vegetable stew and topped with shredded cheese. Served with tangy pickles and a fresh salad, it makes for a hearty and flavorful meal.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/savory-pancake-with-stew-cheese-and-pickles/",
+        "tags": [
+            "Comfort Food",
+            "Fresh Salad",
+            "Hearty Meal",
+            "Pickled Cucumbers",
+            "Rustic Dish",
+            "Savory Pancake",
+            "Shredded Cheese",
+            "Stuffed Crepe",
+            "Vegetable Stew",
+            "Warm Lunch"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Curved-Wooden-Pier-over-Calm-River.jpg",
+        "alt_text": "A curved wooden pier with railings stretches over a calm river, with boats moored alongside and bare trees on both banks.",
+        "description": "This peaceful riverside view features a curved wooden pier bordered by still water and winter trees. Several small boats are tied along the pier, adding to the calm, overcast atmosphere.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/curved-wooden-pier-over-calm-river/",
+        "tags": [
+            "Calm River",
+            "Curved Bridge",
+            "Moored Boats",
+            "Nature Walk",
+            "Overcast Sky",
+            "Quiet Water",
+            "Reflective Surface",
+            "Riverbank Path",
+            "Winter Trees",
+            "Wooden Pier"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Star-Wars-Trading-Cards-Featuring-Luke-Skywalker.jpg",
+        "alt_text": "Close-up of various Star Wars trading cards with Luke Skywalker card in focus holding a blue lightsaber.",
+        "description": "A fan’s Star Wars trading card collection with Luke Skywalker in the spotlight. His card, with a blue lightsaber and stats, sits among a vivid array of themed cards from the expanded universe.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/star-wars-trading-cards-featuring-luke-skywalker/",
+        "tags": [
+            "Card Game",
+            "Collectible Cards",
+            "Game Pieces",
+            "Lightsaber Battle",
+            "Luke Skywalker",
+            "Rebel Force",
+            "SciFi Collectibles",
+            "Star Wars",
+            "Tabletop Game",
+            "Trading Cards"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Homemade-Wild-Garlic-Bread-Rolls.jpg",
+        "alt_text": "Freshly baked bread rolls with chopped wild garlic on a wooden plate beside a white cup with dandelions.",
+        "description": "Baked to a golden finish, these homemade wild garlic rolls are served on a light wooden plate with a cup of fresh dandelions for decoration. A simple and fragrant seasonal treat.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/homemade-wild-garlic-bread-rolls/",
+        "tags": [
+            "Baked Goods",
+            "Bread Rolls",
+            "Fresh Herbs",
+            "Garlic Rolls",
+            "Golden Crust",
+            "Homemade Bread",
+            "Kitchen Decor",
+            "Rustic Baking",
+            "Seasonal Food",
+            "Spring Recipe"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Handmade-Easter-Ornament-on-Blossom-Branch.jpg",
+        "alt_text": "A colorful handmade Easter egg decoration hanging from a blooming branch against a clear blue sky.",
+        "description": "A hand-colored Easter egg ornament dangles from a blooming tree branch under a vibrant blue spring sky. A joyful mix of handmade creativity and seasonal renewal.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/handmade-easter-ornament-on-blossom-branch/",
+        "tags": [
+            "Blooming Tree",
+            "Blue Sky",
+            "Colorful Drawing",
+            "Easter Decoration",
+            "Festive Season",
+            "Handmade Ornament",
+            "Outdoor Craft",
+            "Paper Craft",
+            "Spring Blossoms",
+            "Tree Branch"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Grilled-Cheese-Salad-with-Couscous-and-Toast.jpg",
+        "alt_text": "Grilled cheese served on a salad with couscous, cherry tomatoes, leafy greens, and toasted bread slices.",
+        "description": "A colorful plate featuring grilled cheese on a salad of spinach, couscous, and cherry tomatoes, paired with toasted bread. A fresh and satisfying mix of textures and flavors.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/grilled-cheese-salad-with-couscous-and-toast/",
+        "tags": [
+            "Cherry Tomatoes",
+            "Couscous Bowl",
+            "Fresh Salad",
+            "Green Leaves",
+            "Grilled Cheese",
+            "Healthy Lunch",
+            "Plate Presentation",
+            "Toasted Bread",
+            "Warm Salad"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Tuna-Salad-with-Green-Olives-and-Radicchio.jpg",
+        "alt_text": "A tuna salad with sliced green olives and radicchio on a floral plate with a fork.",
+        "description": "This hearty tuna salad features chopped green olives and crisp radicchio on a patterned plate. A balanced mix of protein and greens, served with a fork and ready to enjoy.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/tuna-salad-with-green-olives-and-radicchio/",
+        "tags": [
+            "Fresh Radicchio",
+            "Green Olives",
+            "Healthy Meal",
+            "Homemade Dish",
+            "Leafy Greens",
+            "Light Food",
+            "Protein Salad",
+            "Salad Plate",
+            "Simple Lunch",
+            "Tuna Salad"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Pair-of-Ducks-Standing-on-a-River-Pier.jpg",
+        "alt_text": "A male and female mallard duck standing on a wooden pier by a flowing river.",
+        "description": "A pair of mallard ducks stands peacefully on a wooden river pier. The soft water movement and bare trees across the river create a calm and natural riverside moment.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/pair-of-ducks-standing-on-a-river-pier/",
+        "tags": [
+            "Birdwatching Spot",
+            "Calm Water",
+            "Feather Patterns",
+            "Mallard Ducks",
+            "Nature Pair",
+            "Peaceful Moment",
+            "River View",
+            "Riverside Wildlife",
+            "Wild Birds",
+            "Wooden Pier"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/View-from-Devin-Castle-Above-the-Danube-River.jpg",
+        "alt_text": "Panoramic view from Devín Castle overlooking the Danube River and surrounding countryside under a blue sky.",
+        "description": "A wide-angle view from Devín Castle reveals the Danube River flowing past green hills and countryside, framed by ancient stone walls and a clear blue sky. A striking blend of history and nature.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/view-from-devin-castle-above-the-danube-river/",
+        "tags": [
+            "Blue Sky",
+            "Castle Ruins",
+            "Danube River",
+            "Devín Castle",
+            "Green Hillside",
+            "Historic Fortress",
+            "River View",
+            "Scenic Overlook",
+            "Slovak Landscape",
+            "Stone Walls"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Group-of-Sheep-Resting-on-a-Green-Hillside.jpg",
+        "alt_text": "Five sheep lying and resting together on a grassy hillside under daylight.",
+        "description": "Five sheep relax on a lush hillside, lying closely together in the grass. Their peaceful grouping and soft wool make this a calm, pastoral image of life in the countryside.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/group-of-sheep-resting-on-a-green-hillside/",
+        "tags": [
+            "Farm Animals",
+            "Grazing Livestock",
+            "Green Pasture",
+            "Nature Group",
+            "Peaceful Countryside",
+            "Resting Sheep",
+            "Rural Landscape",
+            "Sheep Flock",
+            "Sunny Meadow",
+            "Wool Animals"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Bright-Dandelions-in-Spring-Grass.jpg",
+        "alt_text": "Several blooming yellow dandelions with a single purple wildflower in green grass.",
+        "description": "Bright yellow dandelions bloom among green blades of grass, with a single purple wildflower rising behind them. The sunlight casts crisp shadows and enhances the bold natural colors.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/bright-dandelions-in-spring-grass/",
+        "tags": [
+            "Blooming Flowers",
+            "Field Flowers",
+            "Flower Cluster",
+            "Green Grass",
+            "Nature Closeup",
+            "Purple Wildflower",
+            "Spring Meadow",
+            "Sunlit Flora",
+            "Wild Plants",
+            "Yellow Dandelions"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Traditional-Czech-goulash-with-dumplings-and-pancakes.jpg",
+        "alt_text": "Thick beef goulash with sliced dumplings, potato pancakes, red onion, and chili garnish.",
+        "description": "A flavorful Czech beef goulash dish with tender meat, soft dumplings, and golden potato pancakes, garnished with red onion, fresh greens, and spicy chili.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/traditional-czech-goulash-with-dumplings-and-pancakes/",
+        "tags": [
+            "Beef Goulash",
+            "Bread Dumplings",
+            "Comfort Food",
+            "Czech Cuisine",
+            "Fresh Greens",
+            "Potato Pancakes",
+            "Red Onion",
+            "Spicy Garnish",
+            "Traditional Meal"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Zebra-Standing-in-Sandy-Zoo-Enclosure.jpg",
+        "alt_text": "A zebra stands near wooden posts in a sandy zoo enclosure with a giraffe eating hay in the background.",
+        "description": "A zebra stands still in a sandy enclosure with hay and wooden beams, while a giraffe feeds in the background. The contrasting patterns and calm posture create a visually striking moment in the shared zoo habitat.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/zebra-standing-in-sandy-zoo-enclosure/",
+        "tags": [
+            "Animal Habitat",
+            "Captive Animals",
+            "Giraffe Feeding",
+            "Mixed Species",
+            "Sandy Ground",
+            "Striped Mammal",
+            "Wildlife Exhibit",
+            "Wooden Posts",
+            "Zebra Standing",
+            "Zoo Enclosure"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Giraffe-Walking-Near-Zebra-Enclosure-at-Zoo.jpg",
+        "alt_text": "A giraffe walks across a sandy zoo enclosure while a zebra stands behind a metal gate in the background.",
+        "description": "A giraffe strolls through a spacious zoo habitat while a zebra stands just behind a metal gate. The contrast between their sizes and patterns highlights the diversity of wildlife in this naturalistic enclosure.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/giraffe-walking-near-zebra-enclosure-at-zoo/",
+        "tags": [
+            "Animal Habitat",
+            "Captive Animals",
+            "Natural Setting",
+            "Sandy Ground",
+            "Tall Mammal",
+            "Walking Giraffe",
+            "Wildlife Exhibit",
+            "Zebra Fence",
+            "Zoo Enclosure"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/White-Lion-Resting-on-Wooden-Platform.jpg",
+        "alt_text": "A white lion stands behind a wooden platform surrounded by grass and rocks in a zoo enclosure.",
+        "description": "A powerful white lion stands near a log platform in a green zoo enclosure with dandelions, tree trunks, and rock walls creating a rugged, natural look.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/white-lion-resting-on-wooden-platform/",
+        "tags": [
+            "Big Cat",
+            "Grassy Ground",
+            "Natural Enclosure",
+            "Rock Background",
+            "Standing Lion",
+            "White Lion",
+            "Wild Animal",
+            "Wildlife Photography",
+            "Wooden Platform",
+            "Zoo Habitat"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Bratislava-Castle-Above-the-Danube-River.jpg",
+        "alt_text": "Bratislava Castle overlooks the Danube River with a moored cruise ship and forested hills in the background.",
+        "description": "A commanding view of Bratislava Castle perched above the Danube River, with a cruise ship below and green hills and city rooftops forming a layered cityscape in the background.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/bratislava-castle-above-the-danube-river/",
+        "tags": [
+            "Bratislava Castle",
+            "Castle Walls",
+            "City Overview",
+            "Danube River",
+            "Green Hills",
+            "Historic Landmark",
+            "Red Rooftops",
+            "River Cruise",
+            "Summer View"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Bratislava-Castle-and-Cathedral-Above-the-Danube.jpg",
+        "alt_text": "Bratislava Castle and St Martin Cathedral rise above the Old Town, with a bridge and cruise ship on the Danube River.",
+        "description": "An elevated view of Bratislava with the castle and cathedral rising above the red rooftops of the Old Town, as the Danube River flows beneath the SNP Bridge and a cruise ship waits along the embankment.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/bratislava-castle-and-cathedral-above-the-danube/",
+        "tags": [
+            "Bratislava Castle",
+            "Church Tower",
+            "City Landmark",
+            "Cruise Ship",
+            "Danube River",
+            "Hill View",
+            "Old Town",
+            "SNP Bridge",
+            "St Martin"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/SNP-Bridge-with-Buses-Cars-and-River-Cruise-Below.jpg",
+        "alt_text": "Red buses and cars cross SNP Bridge in Bratislava while a white river cruise ship is docked below.",
+        "description": "A close aerial view of Bratislava’s SNP Bridge with traffic flowing in both directions and red buses in motion. Below, a white cruise ship is moored along the Danube and a crowd gathers near a riverside plaza.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/snp-bridge-with-buses-cars-and-river-cruise-below/",
+        "tags": [
+            "Bratislava Infrastructure",
+            "Bridge View",
+            "City Traffic",
+            "Cruise Ship",
+            "Danube River",
+            "Public Transport",
+            "Red Buses",
+            "Riverside Plaza",
+            "SNP Bridge",
+            "Urban Movement"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Bratislava-Riverfront-with-Modern-Skyline.jpg",
+        "alt_text": "The Danube River flows through Bratislava bordered by red rooftops, modern towers, and green riverbanks.",
+        "description": "The Danube River winds through Bratislava, with cruise ships, green parks, and tree-lined bike paths on one side and a mix of red rooftops and modern towers on the other, all beneath a bright sky scattered with clouds.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/bratislava-riverfront-with-modern-skyline/",
+        "tags": [
+            "Aerial Panorama",
+            "Bratislava Skyline",
+            "City Expansion",
+            "Cruise Ships",
+            "Danube River",
+            "Green Parks",
+            "Modern Towers",
+            "Old Town",
+            "Riverfront View",
+            "Urban Landscape"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Bratislava-Castle-and-Old-Town-from-Above.jpg",
+        "alt_text": "Bratislava Castle and Old Town viewed from above with the Danube River and SNP Bridge in the foreground.",
+        "description": "Bratislava’s landmark castle and red-roofed Old Town stretch along the Danube River, with the SNP Bridge connecting both sides of the city in a vivid panoramic view from above.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/bratislava-castle-and-old-town-from-above/",
+        "tags": [
+            "Bratislava Castle",
+            "City View",
+            "Cloudy Sky",
+            "Cruise Ships",
+            "Danube River",
+            "European Capital",
+            "Old Town",
+            "Riverbank Buildings",
+            "SNP Bridge",
+            "Urban Panorama"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Bratislava-City-View-with-Hills-and-Historic-Towers.jpg",
+        "alt_text": "Bratislava’s cityscape with modern high-rises, historic rooftops, and hills stretching across the horizon.",
+        "description": "An urban panorama of Bratislava combining historic towers and modern buildings with the green hills of the Little Carpathians in the background.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/bratislava-city-view-with-hills-and-historic-towers/",
+        "tags": [
+            "Bratislava Cityscape",
+            "Central Europe",
+            "Church Spires",
+            "City Layers",
+            "Hill Background",
+            "Historic Buildings",
+            "Modern Highrise",
+            "Red Rooftops",
+            "Summer View",
+            "Urban Architecture"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Bratislava-View-with-UFO-Bridge-and-Castle.jpg",
+        "alt_text": "UFO Bridge crosses the Danube River with Bratislava Castle, old town, and green parks visible under a blue sky.",
+        "description": "A sweeping view of Bratislava showing the UFO Bridge, Bratislava Castle, and the city’s old town along the Danube River, with green parklands and event infrastructure in the foreground.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/bratislava-view-with-ufo-bridge-and-castle/",
+        "tags": [
+            "Bratislava Castle",
+            "City Panorama",
+            "Danube River",
+            "Event Stage",
+            "Green Parks",
+            "Old Town",
+            "Riverside Architecture",
+            "Summer Sky",
+            "UFO Bridge",
+            "Urban View"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/UFO-Bridge-and-Bratislava-Castle-Over-Danube.jpg",
+        "alt_text": "UFO Tower and Bratislava Castle overlook the Danube River with wide roads, forest, and a large building complex.",
+        "description": "An expansive look at Bratislava with the UFO Bridge crossing the Danube, Bratislava Castle on the hilltop, and the Incheba Expo complex surrounded by greenery and city infrastructure.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/ufo-bridge-and-bratislava-castle-over-danube/",
+        "tags": [
+            "Bratislava Castle",
+            "Castle Hill",
+            "City Landscape",
+            "Danube River",
+            "Forest Edge",
+            "Incheba Expo",
+            "Modern Roadways",
+            "River Crossing",
+            "UFO Bridge"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/St-Martin-Cathedral-and-Bridge-Over-Danube.jpg",
+        "alt_text": "St Martin Cathedral rises behind a bridge with cars and a tram crossing the Danube River in Bratislava.",
+        "description": "A layered cityscape of Bratislava with St Martin Cathedral, the Danube River, a busy bridge, and forested hills in the background. A white cruise ship is docked near the old town.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/st-martin-cathedral-and-bridge-over-danube/",
+        "tags": [
+            "Bratislava Traffic",
+            "City Bridge",
+            "Cruise Ship",
+            "Danube River",
+            "Historic Cathedral",
+            "River Tram",
+            "St Martin",
+            "Summer View",
+            "Urban Landscape"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/St-Martin-Cathedral-with-City-Traffic-View.jpg",
+        "alt_text": "St Martin Cathedral rises above red rooftops as cars flow along a multi-lane road in central Bratislava.",
+        "description": "A striking view of St Martin Cathedral towering over the heart of Bratislava as vehicles move along curving city roads beneath the old town’s rooftops.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/st-martin-cathedral-with-city-traffic-view/",
+        "tags": [
+            "Bratislava Center",
+            "Church Tower",
+            "City Contrast",
+            "City Traffic",
+            "Historic Cathedral",
+            "Main Road",
+            "Red Rooftops",
+            "St Martin",
+            "Summer Day",
+            "Urban Landscape"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/St-Martin-Cathedral-and-Kamzik-Tower-View.jpg",
+        "alt_text": "St Martin Cathedral stands tall in the foreground with Kamzik Tower rising above forested hills in the distance.",
+        "description": "A panoramic view of Bratislava featuring the historic St Martin Cathedral in the foreground and the Kamzik TV Tower peeking above the green hills in the distance.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/st-martin-cathedral-and-kamzik-tower-view/",
+        "tags": [
+            "Bratislava View",
+            "Church Spire",
+            "City Layers",
+            "Forest Hills",
+            "Historic District",
+            "Kamzik Tower",
+            "Mountain Background",
+            "Red Rooftops",
+            "St Martin",
+            "Summer Skyline"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Modern-Bratislava-Skyline-by-the-Danube.jpg",
+        "alt_text": "High-rise buildings and river cruise ships line the Danube River in Bratislava on a bright summer day.",
+        "description": "An expansive view of Bratislava showing the contrast between historic buildings and modern glass towers along the Danube, with docked cruise ships and a central green bridge.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/modern-bratislava-skyline-by-the-danube/",
+        "tags": [
+            "Bratislava Skyline",
+            "City Buildings",
+            "Cruise Ships",
+            "Danube River",
+            "Glass Towers",
+            "Green Bridge",
+            "Modern Architecture",
+            "Riverfront View",
+            "Summer Cityscape",
+            "Urban Development"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Sky-Park-Tower-and-Bratislava-Skyline.jpg",
+        "alt_text": "Sky Park Tower and surrounding buildings rise above the Danube River in Bratislava on a clear summer day.",
+        "description": "A view of Bratislava’s modern cityscape with the tall Sky Park Tower at its center, flanked by sleek high-rises and the Danube River flowing below.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/sky-park-tower-and-bratislava-skyline/",
+        "tags": [
+            "Blue Sky",
+            "Bratislava Skyline",
+            "City Bridge",
+            "Cityscape View",
+            "Danube River",
+            "Modern Architecture",
+            "Office Buildings",
+            "Residential Towers",
+            "Sky Park",
+            "Urban Development"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Bratislava-Castle-and-UFO-Tower-View.jpg",
+        "alt_text": "Bratislava Castle and the UFO Observation Tower rise above the city under a clear blue sky.",
+        "description": "A striking contrast between the historic Bratislava Castle and the futuristic UFO Tower, both perched high above the city and surrounded by greenery and urban architecture.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/bratislava-castle-and-ufo-tower-view/",
+        "tags": [
+            "Bratislava Castle",
+            "Castle Hill",
+            "City Landmark",
+            "Historic Architecture",
+            "Modern Structure",
+            "Observation Tower",
+            "Slovakia Travel",
+            "UFO Tower",
+            "Urban Landscape"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Festival-stage-setup-at-sunset.jpg",
+        "alt_text": "Large concert stage with LED screens and speakers illuminated during sunset preparations.",
+        "description": "A dramatic view of a festival stage at dusk, with illuminated LED displays, suspended speakers, and scaffolding silhouetted against a vibrant sunset sky.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/festival-stage-setup-at-sunset/",
+        "tags": [
+            "Concert Stage",
+            "Event Production",
+            "Festival Setup",
+            "LED Screens",
+            "Music Festival",
+            "Night Preparation",
+            "Outdoor Event",
+            "Speaker Towers",
+            "Stage Scaffolding",
+            "Sunset Lighting"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/UFO-Tower-in-Bratislava-Glowing-at-Dusk.jpg",
+        "alt_text": "The UFO Tower in Bratislava illuminated in yellow at sunset, with the castle and church visible in the background.",
+        "description": "The yellow-lit UFO Tower stands tall over the Danube bridge at sunset in Bratislava, with the castle and church visible nearby under a moody sky.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/ufo-tower-in-bratislava-glowing-at-dusk/",
+        "tags": [
+            "Bratislava Castle",
+            "Church Spire",
+            "City Landmark",
+            "Evening Light",
+            "Historic Building",
+            "Modern Structure",
+            "Road Perspective",
+            "Sunset Sky",
+            "UFO Tower",
+            "Urban Bridge"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Concert-Fireworks-and-LED-Towers.jpg",
+        "alt_text": "Fireworks light up the night sky above a concert stage with tall LED towers and a cheering crowd.",
+        "description": "An energetic concert scene featuring massive LED towers, cheering fans holding up phones, and a stunning burst of fireworks overhead.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/concert-fireworks-and-led-towers/",
+        "tags": [
+            "Audience Crowd",
+            "Concert Stage",
+            "Festival Atmosphere",
+            "Fireworks Display",
+            "LED Screens",
+            "Live Show",
+            "Music Festival",
+            "Night Event",
+            "Performance Night",
+            "Stage Lighting"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Woman-with-Tribal-Body-Paint-and-Natural-Hair.jpg",
+        "alt_text": "A woman with an afro hairstyle and white tribal body paint poses confidently against a warm brown background.",
+        "description": "A striking woman with natural hair poses with detailed white tribal paint across her skin, capturing strength, beauty, and cultural pride.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/woman-with-tribal-body-paint-and-natural-hair/",
+        "tags": [
+            "Afro Style",
+            "Artistic Expression",
+            "Body Art",
+            "Bold Portrait",
+            "Cultural Identity",
+            "Ethnic Beauty",
+            "Natural Hair",
+            "Painted Skin",
+            "Traditional Symbolism",
+            "Tribal Paint"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Father-Teaching-Son-to-Ride-a-Bike.jpg",
+        "alt_text": "A smiling father helps his young son ride a bicycle on a suburban sidewalk during a sunny afternoon.",
+        "description": "A father joyfully helps his young son learn to ride a bike on a peaceful neighborhood sidewalk, capturing a tender and supportive moment between parent and child.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/father-teaching-son-to-ride-a-bike/",
+        "tags": [
+            "Bike Helmet",
+            "Childhood Milestone",
+            "Family Moment",
+            "Father Son",
+            "Happy Parenting",
+            "Learning Bike",
+            "Outdoor Activity",
+            "Parental Support",
+            "Quality Time",
+            "Suburban Street"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Traditional-African-Dance-Performance-Outdoors.jpg",
+        "alt_text": "Three dancers in traditional African attire perform energetically on a street during an outdoor cultural event.",
+        "description": "A powerful display of traditional African dance with three performers in colorful garments, energetic expressions, and rhythmic movement during a cultural street event.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/traditional-african-dance-performance-outdoors/",
+        "tags": [
+            "African Dance",
+            "Cowrie Shells",
+            "Cultural Festival",
+            "Dance Troupe",
+            "Drumming Dance",
+            "Energetic Movement",
+            "Festival Celebration",
+            "Street Performance",
+            "Traditional Clothing",
+            "Tribal Costume"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Woman-Holding-Horned-Tribal-Mask.jpg",
+        "alt_text": "A woman with natural hair holds a carved wooden tribal mask with horns beside her face against a dark background.",
+        "description": "A powerful portrait of a woman holding a horned tribal mask beside her face, blending bold cultural symbolism with a calm and confident presence.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/woman-holding-horned-tribal-mask/",
+        "tags": [
+            "African Art",
+            "Bold Portrait",
+            "Carved Details",
+            "Cultural Identity",
+            "Dark Background",
+            "Ethnic Beauty",
+            "Heritage Symbol",
+            "Natural Hair",
+            "Tribal Mask",
+            "Wooden Sculpture"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Woman-Holding-Traditional-African-Mask.jpg",
+        "alt_text": "A woman in patterned fabric holds a carved African mask beside her face against a warm brown background.",
+        "description": "A powerful portrait of a woman in traditional attire holding a wooden African mask next to her face, blending cultural symbolism with personal expression.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/woman-holding-traditional-african-mask/",
+        "tags": [
+            "African Heritage",
+            "Artistic Expression",
+            "Cultural Identity",
+            "Ethnic Fashion",
+            "Natural Hair",
+            "Patterned Fabric",
+            "Strong Portrait",
+            "Traditional Mask",
+            "Tribal Art",
+            "Wooden Mask"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Boxer-Training-with-Punching-Bag-Indoors.jpg",
+        "alt_text": "A muscular man wearing red gloves and a black tank top trains with a heavy punching bag in a brick-walled gym.",
+        "description": "A focused boxer trains with a punching bag in a gritty gym, wearing red gloves and a black tank top. The warm lighting and brick backdrop add intensity to the workout atmosphere.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/boxer-training-with-punching-bag-indoors/",
+        "tags": [
+            "Athletic Build",
+            "Black Tanktop",
+            "Boxing Training",
+            "Fitness Gym",
+            "Focused Stance",
+            "Industrial Gym",
+            "Punching Bag",
+            "Red Gloves",
+            "Strong Arms"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Strong-Woman-Lifting-Barbell-at-Gym.jpg",
+        "alt_text": "A fit woman in a black tank top holds a barbell with weights in a gym, looking confidently at the camera.",
+        "description": "A strong and focused woman performs a barbell lift at the gym. Her confident stance and athletic build highlight strength and dedication in a modern fitness environment.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/strong-woman-lifting-barbell-at-gym/",
+        "tags": [
+            "Athletic Female",
+            "Barbell Training",
+            "Black Tanktop",
+            "Confident Pose",
+            "Fitness Woman",
+            "Focused Athlete",
+            "Gym Workout",
+            "Strength Training",
+            "Strong Physique",
+            "Weight Lifting"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Man-in-Futuristic-Blue-Armor-Suit.jpg",
+        "alt_text": "A man with dreadlocks and a beard wears a detailed futuristic blue suit with glowing lines, standing against a stone wall.",
+        "description": "A strong and composed man in a high-tech, blue armored suit with glowing accents stands in front of a stone wall, evoking a powerful and futuristic presence.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/man-in-futuristic-blue-armor-suit/",
+        "tags": [
+            "Bearded Man",
+            "Blue Armor",
+            "Dreadlocked Hair",
+            "Futuristic Suit",
+            "Heroic Pose",
+            "High Tech",
+            "Modern Warrior",
+            "Sci Fi",
+            "Tech Costume",
+            "Urban Wall"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Focused-Woman-Working-at-Laptop-in-Modern-Office.jpg",
+        "alt_text": "A young woman with dreadlocks and glasses types on a laptop at a wooden desk in a bright office with large windows.",
+        "description": "A focused woman works on her laptop at a bright office desk, surrounded by large windows, indoor plants, and modern décor. She wears glasses and a colorful striped cardigan, creating a casual yet professional atmosphere.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/focused-woman-working-at-laptop-in-modern-office/",
+        "tags": [
+            "Casual Outfit",
+            "Creative Space",
+            "Dreadlock Hair",
+            "Focused Expression",
+            "Glasses Style",
+            "Laptop Desk",
+            "Modern Office",
+            "Natural Light",
+            "Office Plants",
+            "Working Woman"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Serious-Man-with-Tattoos-and-Dreadlocks.jpg",
+        "alt_text": "A man with long dreadlocks, facial tattoos, and a neck tattoo stares intensely while standing in front of a brick wall.",
+        "description": "A striking portrait of a man with dreadlocks and visible tattoos, including face and neck ink, standing against a textured brick wall with a steady gaze.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/serious-man-with-tattoos-and-dreadlocks/",
+        "tags": [
+            "Brick Wall",
+            "Dreadlocked Hair",
+            "Facial Tattoos",
+            "Intense Gaze",
+            "Neck Tattoo",
+            "Olive Shirt",
+            "Serious Expression",
+            "Street Portrait",
+            "Tattooed Man",
+            "Urban Style"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Confident-Female-Doctor-in-Hospital-Hallway.jpg",
+        "alt_text": "A female doctor with braided hair stands confidently in a hospital hallway wearing a white coat and stethoscope.",
+        "description": "A composed female doctor stands in a hospital corridor, dressed in a white coat and stethoscope, exuding professionalism and care.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/confident-female-doctor-in-hospital-hallway/",
+        "tags": [
+            "Braided Hair",
+            "Clinical Setting",
+            "Confident Pose",
+            "Female Doctor",
+            "Healthcare Worker",
+            "Hospital Hallway",
+            "Medical Professional",
+            "Serious Expression",
+            "Stethoscope Neck",
+            "White Coat"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Physical-Therapist-Assisting-Elderly-Man.jpg",
+        "alt_text": "A female physical therapist supports an elderly man by gently holding his arm during a session in a bright room.",
+        "description": "A therapist provides support during a recovery session, guiding an elderly man with care and focus. The setting includes therapy equipment and soft natural light.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/physical-therapist-assisting-elderly-man/",
+        "tags": [
+            "Elderly Patient",
+            "Gentle Care",
+            "Health Rehabilitation",
+            "Helping Hand",
+            "Medical Assistance",
+            "Physical Therapy",
+            "Recovery Session",
+            "Senior Health",
+            "Therapist Support",
+            "Therapy Room"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Tearful-Graduate-Smiling-with-Joy.jpg",
+        "alt_text": "A young woman in a cap and gown smiles with a tear on her cheek during an outdoor graduation ceremony.",
+        "description": "A moving portrait of a young graduate smiling with a tear on her cheek, capturing the powerful emotions of a graduation ceremony outdoors.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/tearful-graduate-smiling-with-joy/",
+        "tags": [
+            "Academic Achievement",
+            "Cap Gown",
+            "Emotional Moment",
+            "Graduation Day",
+            "Joyful Tear",
+            "Life Milestone",
+            "Outdoor Ceremony",
+            "Proud Smile",
+            "Student Celebration",
+            "Young Graduate"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Thoughtful-Teen-Sitting-on-Park-Bench.jpg",
+        "alt_text": "A teenage boy with a large afro rests his chin on his hand while sitting on a bench in a green park.",
+        "description": "A teen with an afro sits quietly on a park bench, resting his chin on his hand while lost in thought. The blurred trees and path in the background suggest a calm, natural setting.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/thoughtful-teen-sitting-on-park-bench/",
+        "tags": [
+            "Afro Hair",
+            "Casual Pose",
+            "Green Background",
+            "Natural Setting",
+            "Park Bench",
+            "Quiet Moment",
+            "Reflective Mood",
+            "Teen Boy",
+            "Thoughtful Expression",
+            "Youth Portrait"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Smiling-Elderly-Woman-in-Warm-Indoor-Light.jpg",
+        "alt_text": "An elderly woman with short curly hair smiles warmly in a softly lit indoor setting wearing a green sweater.",
+        "description": "A close-up portrait of an elderly woman smiling gently indoors. Her calm expression, short gray curls, and warm lighting create a heartfelt and intimate image.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/smiling-elderly-woman-in-warm-indoor-light/",
+        "tags": [
+            "Aging Gracefully",
+            "Close Up",
+            "Curly Hair",
+            "Elderly Woman",
+            "Indoor Portrait",
+            "Joyful Expression",
+            "Kind Eyes",
+            "Natural Light",
+            "Soft Focus",
+            "Warm Smile"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Woman-Meditating-Peacefully-by-Morning-Lake.jpg",
+        "alt_text": "A woman in a white robe meditates cross-legged on a wooden dock beside a calm lake in the morning mist.",
+        "description": "A calm morning moment as a woman meditates on a wooden dock overlooking a misty lake, surrounded by quiet water and forest reflections.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/woman-meditating-peacefully-by-morning-lake/",
+        "tags": [
+            "Calm Water",
+            "Forest Lake",
+            "Mindful Pose",
+            "Morning Mist",
+            "Nature Retreat",
+            "Peaceful Meditation",
+            "Serene Woman",
+            "Tranquil Atmosphere",
+            "White Robe",
+            "Yoga Practice"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Regal-Woman-in-Gold-and-Blue-at-Sunset.jpg",
+        "alt_text": "A woman in gold and blue traditional attire walks through a golden field at sunset with mountains in the background.",
+        "description": "A striking woman in gold and blue traditional dress walks through a glowing field at sunset, with dramatic mountains behind her and golden particles floating in the air.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/regal-woman-in-gold-and-blue-at-sunset/",
+        "tags": [
+            "African Beauty",
+            "Desert Plains",
+            "Ethnic Style",
+            "Golden Field",
+            "Majestic Walk",
+            "Regal Dress",
+            "Silhouetted Mountains",
+            "Sunset Glow",
+            "Traditional Fashion",
+            "Tribal Jewelry"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Woman-Meditating-on-Dock-at-Sunrise.jpg",
+        "alt_text": "A woman in a white robe sits cross-legged on a wooden dock meditating at sunrise by a misty lake.",
+        "description": "A serene view of a woman meditating at sunrise on a wooden dock beside a mist-covered lake, surrounded by trees and soft morning light.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/woman-meditating-on-dock-at-sunrise/",
+        "tags": [
+            "Calm Water",
+            "Misty Forest",
+            "Morning Meditation",
+            "Peaceful Lake",
+            "Serene Nature",
+            "Sunrise Reflection",
+            "Tranquil Mood",
+            "White Robe",
+            "Wooden Dock",
+            "Yoga Practice"
+        ]
+    },
+    {
         "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Colorful-Citrus-Table-Setting-for-Summer-Dining.jpg",
         "alt_text": "A vibrant summer table with citrus decor, floral tablecloth, lemonade, and a place setting featuring an orange slice.",
         "description": "This vivid summer table setup includes a citrus-themed cloth, vibrant flowers, and a refreshing glass of lemonade, perfect for warm-weather entertaining. The bright orange slice and bold colors bring energy to the place setting.",
