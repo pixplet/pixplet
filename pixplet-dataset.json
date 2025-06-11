@@ -1,5 +1,836 @@
 [
     {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Castle-Above-Lake-with-Fountain-View.jpg",
+        "alt_text": "A large castle sits on a forested hill above a lake with a water fountain, framed by trees and greenery.",
+        "description": "A scenic view of a castle on a hilltop surrounded by trees, overlooking a peaceful lake with a fountain. The natural frame of leaves and sunlight enhances the calm, inviting atmosphere of this tranquil outdoor landscape.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/castle-above-lake-with-fountain-view/",
+        "tags": [
+            "Blue Sky",
+            "Castle Hill",
+            "Forest View",
+            "Greenery Frame",
+            "Hilltop Fortress",
+            "Peaceful Park",
+            "Reflecting Lake",
+            "Summer Landscape",
+            "Tranquil Nature",
+            "Water Fountain"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Homemade-Tortilla-Pizza-in-Oven.jpg",
+        "alt_text": "A tortilla pizza with ham, cheese, corn, and mozzarella bakes inside an oven.",
+        "description": "This tortilla-based pizza features a layer of tomato sauce, ham, cheese, corn, and fresh mozzarella. Captured mid-bake through the oven door, it shows a simple yet tasty homemade meal in progress.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/homemade-tortilla-pizza-in-oven/",
+        "tags": [
+            "Baking Oven",
+            "Cheese Topping",
+            "Corn Pizza",
+            "Fresh Mozzarella",
+            "Ham Pizza",
+            "Homemade Meal",
+            "Kitchen Appliance",
+            "Pizza Preparation",
+            "Quick Recipe",
+            "Tortilla Pizza"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Sunny-Garden-with-Benches-and-Flowering-Bushes.jpg",
+        "alt_text": "A sunny garden with wooden benches, white flowers, vegetable beds, and a greenhouse in the background.",
+        "description": "This peaceful garden includes a seating area on green grass, blooming white hydrangeas, and neatly arranged vegetable beds. A small greenhouse and sunny weather add to the warm and welcoming atmosphere of the cultivated space.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/sunny-garden-with-benches-and-flowering-bushes/",
+        "tags": [
+            "Backyard Garden",
+            "Blooming Shrubs",
+            "Garden Seating",
+            "Lawn Chairs",
+            "Outdoor Greenhouse",
+            "Summer Sky",
+            "Sunny Day",
+            "Vegetable Beds",
+            "White Flowers",
+            "Wooden Benches"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Gothic-Castle-Tower-at-Dusk.jpg",
+        "alt_text": "A stone castle tower with arched windows and iron spikes is lit up against a deep blue evening sky.",
+        "description": "The illuminated stone walls of a Gothic-style castle rise dramatically into the evening sky. Architectural details like iron spikes and arched windows give the structure a historic and imposing character under the fading light.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/gothic-castle-tower-at-dusk/",
+        "tags": [
+            "Arched Windows",
+            "Architectural Detail",
+            "Castle Tower",
+            "Evening Light",
+            "Gothic Architecture",
+            "Historic Structure",
+            "Iron Spikes",
+            "Medieval Design",
+            "Stone Facade",
+            "Twilight Sky"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Colorful-Hallway-with-Bakery-and-Glass-Ceiling.jpg",
+        "alt_text": "A hallway with a stained glass ceiling and wooden pillars leads to a bakery window and an open doorway.",
+        "description": "A vibrant passageway with a colorful stained glass ceiling and warm wooden accents guides visitors past a working bakery to an open courtyard. The mix of artisanal charm and architectural detail creates a welcoming, nostalgic atmosphere.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/colorful-hallway-with-bakery-and-glass-ceiling/",
+        "tags": [
+            "Artisan Corridor",
+            "Bakery Interior",
+            "Colorful Ceiling",
+            "Cozy Passage",
+            "Elegant Design",
+            "Glass Roof",
+            "Indoor Hallway",
+            "Stained Glass",
+            "Wooden Pillars"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Pilsner-Beer-in-Sunlit-Glass-Mug.jpg",
+        "alt_text": "A cold glass of Pilsner beer with a thick foam head sits on a wooden table near a sunny window.",
+        "description": "This bright glass of Pilsner beer, with its rich golden color and foamy white head, is served in a classic mug on a sunlit table. The warm daylight enhances its crisp and inviting appearance, perfect for a relaxing moment.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/pilsner-beer-in-sunlit-glass-mug/",
+        "tags": [
+            "Beer Mug",
+            "Cold Beverage",
+            "Czech Lager",
+            "Foam Head",
+            "Glass Mug",
+            "Golden Drink",
+            "Pilsner Beer",
+            "Refreshing Moment",
+            "Sunlight Reflection",
+            "Wooden Table"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Packed-Ice-Hockey-Arena-During-National-Match.jpg",
+        "alt_text": "A full ice hockey stadium with fans, bright lighting, and a scoreboard showing Slovakia leading 2–0.",
+        "description": "Thousands of fans fill the stands during a major ice hockey match, with Slovakia leading 2–0. A bright scoreboard, sponsor ads, and a pristine rink amplify the high-energy atmosphere of the international competition.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/packed-ice-hockey-arena-during-national-match/",
+        "tags": [
+            "Arena Lights",
+            "Branded Rink",
+            "Competitive Game",
+            "Hockey Scoreboard",
+            "Ice Hockey",
+            "Indoor Stadium",
+            "National Teams",
+            "Packed Arena",
+            "Slovakia Match",
+            "Sports Fans"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Festive-Christmas-Tram-in-City-Center.jpg",
+        "alt_text": "A green and red tram decorated with Christmas designs and “Veselé Vianoce” lettering travels through a modern city street.",
+        "description": "A cheerful Christmas tram travels through the city adorned with red and green wrapping, holiday motifs, and “Veselé Vianoce” in golden script. The blend of festive decoration and urban setting creates a charming seasonal contrast.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/festive-christmas-tram-in-city-center/",
+        "tags": [
+            "Christmas Tram",
+            "City Center",
+            "Festive Decoration",
+            "Holiday Transport",
+            "Public Transit",
+            "Retro Vehicle",
+            "Slovak Greeting",
+            "Urban Street",
+            "Winter Mood"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Fountain-in-Morning-Sunlight.jpg",
+        "alt_text": "A wide fountain sprays water upward as the morning sun shines above a paved square with surrounding buildings and trees.",
+        "description": "Bathed in morning light, a city fountain jets water into the air, creating shimmering arcs. The open plaza, long shadows, and tranquil setting highlight the calm of early daylight hours in a structured urban environment.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/fountain-in-morning-sunlight/",
+        "tags": [
+            "Architectural Feature",
+            "City Fountain",
+            "Clear Sky",
+            "Morning Sun",
+            "Peaceful Moment",
+            "Public Park",
+            "Stone Pavement",
+            "Sunrise Glow",
+            "Urban Square",
+            "Water Spray"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Parachuters-Leave-Smoke-Trails-in-Blue-Sky.jpg",
+        "alt_text": "A group of parachuters descends through a partly cloudy sky, leaving red smoke trails behind them.",
+        "description": "Parachuters drift through a brilliant blue sky, leaving behind curling trails of red smoke. The surrounding wispy clouds enhance the dramatic visuals of their aerial display.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/parachuters-leave-smoke-trails-in-blue-sky/",
+        "tags": [
+            "Aerial Display",
+            "Air Show",
+            "Blue Sky",
+            "Cloud Patterns",
+            "Free Fall",
+            "Midair Formation",
+            "Parachute Drop",
+            "Red Smoke",
+            "Sky Divers"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Funny-Apple-with-Face-Like-Marks.jpg",
+        "alt_text": "A red apple with dents and holes resembling a tiny human face held in someone's hand.",
+        "description": "This quirky red apple looks like it has a tiny human face formed by natural dents and holes. A hand holds it up with travel-themed items in the background, creating a lighthearted and amusing visual.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/funny-apple-with-face-like-marks/",
+        "tags": [
+            "Apple Closeup",
+            "Face Pattern",
+            "Funny Apple",
+            "Human Face",
+            "Natural Markings",
+            "Playful Detail",
+            "Red Fruit",
+            "Travel Desk",
+            "Unexpected Shape",
+            "Whimsical Object"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Double-Decker-Train-at-Empty-Platform.jpg",
+        "alt_text": "A double-decker Deutsche Bahn train stands still at a clean, well-lit platform inside a modern station.",
+        "description": "A Deutsche Bahn double-decker train is seen at a clean, empty platform in a contemporary underground station. Bright lighting and modern infrastructure enhance the polished look of this transit hub.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/double-decker-train-at-empty-platform/",
+        "tags": [
+            "Deutsche Bahn",
+            "Double Decker",
+            "Empty Platform",
+            "Modern Platform",
+            "Public Transport",
+            "Rail Network",
+            "Station Interior",
+            "Train Station",
+            "Travel Germany",
+            "Underground Terminal"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Modern-Train-Station-with-Multi-Level-Platforms.jpg",
+        "alt_text": "A multi-level train station with escalators, platforms, and ICE and regional trains visible.",
+        "description": "A vibrant look inside a multi-level train station featuring high-speed ICE and regional trains, busy platforms, illuminated signage, and intersecting escalators connecting the different floors of the transit hub.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/modern-train-station-with-multi-level-platforms/",
+        "tags": [
+            "Berlin Hauptbahnhof",
+            "Escalator Structure",
+            "ICE Train",
+            "Modern Architecture",
+            "Passenger Flow",
+            "Platform View",
+            "Public Transport",
+            "Railway Hub",
+            "Train Station",
+            "Urban Mobility"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Brandenburg-Gate-on-a-Cloudy-Morning.jpg",
+        "alt_text": "Front view of the Brandenburg Gate in Berlin under a cloudy sky with few people and light traffic in the distance.",
+        "description": "The Brandenburg Gate towers under a moody, cloud-filled sky in Berlin. This neoclassical monument remains one of the city’s most iconic landmarks, with its grand columns and horse-drawn chariot visible in striking detail.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/brandenburg-gate-on-a-cloudy-morning/",
+        "tags": [
+            "Berlin Landmark",
+            "Brandenburg Gate",
+            "City Icon",
+            "German History",
+            "Historic Monument",
+            "Neoclassical Architecture",
+            "Overcast Sky",
+            "Quadriga Statue",
+            "Stone Columns",
+            "Urban Landmark"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Checkpoint-Charlie-on-a-Cloudy-Day.jpg",
+        "alt_text": "View of Checkpoint Charlie in Berlin with American flags, shops, and wet streets under a cloudy sky.",
+        "description": "Checkpoint Charlie stands at the center of a Berlin street, flanked by flags, museums, and fast food outlets. The wet ground and gray skies highlight the somber yet iconic atmosphere of this Cold War-era landmark.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/checkpoint-charlie-on-a-cloudy-day/",
+        "tags": [
+            "American Flag",
+            "Berlin Landmark",
+            "Checkpoint Charlie",
+            "Cold War",
+            "Historic Border",
+            "Iconic Site",
+            "Street View",
+            "Tourist Spot",
+            "Urban Scene",
+            "Wet Pavement"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Green-Sneakers-on-Wet-Cobblestones.jpg",
+        "alt_text": "A person wearing green sneakers steps over wet cobblestones marked by white painted arrows.",
+        "description": "A detailed street-level view of someone stepping across wet cobblestones in green sneakers. The reflective surface, directional arrows, and vivid paving stones create a visually striking urban composition.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/green-sneakers-on-wet-cobblestones/",
+        "tags": [
+            "City Texture",
+            "Cobblestone Path",
+            "Direction Arrow",
+            "Foot Movement",
+            "Green Sneakers",
+            "Rainy Walk",
+            "Street Crossing",
+            "Urban Detail",
+            "Walking Moment",
+            "Wet Pavement"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Decorative-Horse-Sculptures-on-Bridge-Railing.jpg",
+        "alt_text": "Two sculpted horse figures face each other on a decorative green metal bridge railing above a river.",
+        "description": "Ornamental horse sculptures in green-painted metal decorate a city bridge railing, with the river and stone banks forming a textured backdrop that enhances the historic and artistic character of the setting.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/decorative-horse-sculptures-on-bridge-railing/",
+        "tags": [
+            "Bridge Railing",
+            "City Architecture",
+            "Classical Design",
+            "Decorative Ironwork",
+            "Historic Detail",
+            "Horse Sculpture",
+            "Metal Artwork",
+            "River View",
+            "Sculpted Detail",
+            "Urban River"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Butter-Chicken-with-Fresh-Naan-Bread.jpg",
+        "alt_text": "A bowl of butter chicken garnished with herbs served with naan bread in a wicker basket.",
+        "description": "A delicious serving of butter chicken topped with herbs and cream sits beside warm, slightly charred naan bread in a rustic basket, ready for a flavorful meal experience.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/butter-chicken-with-fresh-naan-bread/",
+        "tags": [
+            "Butter Chicken",
+            "Curry Dish",
+            "Fresh Herbs",
+            "Indian Cuisine",
+            "Naan Bread",
+            "Restaurant Table",
+            "Rich Sauce",
+            "Spicy Food",
+            "Traditional Meal",
+            "Wicker Basket"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Ornate-Dome-Inside-a-Historic-Cathedral.jpg",
+        "alt_text": "A detailed view of a cathedral’s grand dome with stained glass and intricate architectural carvings.",
+        "description": "An upward view reveals the stunning interior of a cathedral dome, with golden stained glass, baroque ornamentation, and sculpted arches that showcase historic European craftsmanship.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/ornate-dome-inside-a-historic-cathedral/",
+        "tags": [
+            "Baroque Architecture",
+            "Cathedral Dome",
+            "Church Art",
+            "Classical Columns",
+            "Historic Church",
+            "Ornate Ceiling",
+            "Religious Interior",
+            "Sacred Space",
+            "Stained Glass"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Cheeseburger-with-Fries-and-Coca-Cola.jpg",
+        "alt_text": "A cheeseburger with lettuce served with fries topped with ketchup and mayo and a bottle of Coca-Cola.",
+        "description": "This hearty combo features a juicy cheeseburger with lettuce and cheese, crispy fries smothered in ketchup and mayo, and a chilled glass bottle of Coca-Cola for a satisfying, timeless meal.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/cheeseburger-with-fries-and-coca-cola/",
+        "tags": [
+            "Cheeseburger Meal",
+            "Classic Burger",
+            "Coca Cola",
+            "Crispy Fries",
+            "Diner Setting",
+            "Fast Food",
+            "French Fries",
+            "Fresh Lettuce",
+            "Glass Bottle",
+            "Tasty Lunch"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Lightsaber-Duel-Between-Jedi-and-Sith.jpg",
+        "alt_text": "Lifelike figures of a Jedi and Sith locked in a lightsaber duel, with glowing red and blue blades.",
+        "description": "Two iconic Star Wars characters face off in a dramatic lightsaber duel. A Jedi with a blue blade squares up against a Sith wielding a red double-bladed saber, both posed in a striking sci-fi setting.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/lightsaber-duel-between-jedi-and-sith/",
+        "tags": [
+            "Action Display",
+            "Film Characters",
+            "Futuristic Setting",
+            "Glowing Sabers",
+            "Jedi Knight",
+            "Lightsaber Duel",
+            "Movie Scene",
+            "SciFi Combat",
+            "Sith Lord",
+            "Star Wars"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Brandenburg-Gate-Illuminated-at-Night.jpg",
+        "alt_text": "The Brandenburg Gate in Berlin lit up at night with glowing columns and a dark, empty square in front.",
+        "description": "A striking nighttime photo of Berlin’s Brandenburg Gate, glowing with warm lights. The empty square and dramatic lighting highlight the monument’s architectural detail and historic presence.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/brandenburg-gate-illuminated-at-night/",
+        "tags": [
+            "Berlin Landmark",
+            "Brandenburg Gate",
+            "City Lights",
+            "German Icon",
+            "Historic Monument",
+            "Illuminated Building",
+            "Neoclassical Structure",
+            "Night Architecture",
+            "Travel Destination",
+            "Urban Nightscape"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Glass-of-Light-Beer-on-a-Table.jpg",
+        "alt_text": "A clear glass filled with light golden beer and topped with a thick foamy head, placed on a pink table surface.",
+        "description": "A refreshing glass of light beer with a dense foamy head sits on a table by the window. The golden brew is crystal clear, with bubbles rising gently, capturing a perfect moment of simple indulgence.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/glass-of-light-beer-on-a-table/",
+        "tags": [
+            "Beer Glass",
+            "Bubbly Beer",
+            "Casual Refreshment",
+            "Cold Brew",
+            "Foamy Head",
+            "Golden Drink",
+            "Lager Style",
+            "Light Beer",
+            "Refreshing Beverage",
+            "Tabletop Drink"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Beef-Goulash-with-Dumplings-and-Pickled-Onion.jpg",
+        "alt_text": "Plate of beef goulash in rich sauce served with bread dumplings and a side of pickled red onion.",
+        "description": "A generous serving of beef goulash with rich paprika gravy is complemented by two fluffy bread dumplings and a vibrant portion of pickled red onion. A classic comfort food with bold flavors and hearty texture.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/beef-goulash-with-dumplings-and-pickled-onion/",
+        "tags": [
+            "Beef Goulash",
+            "Bread Dumplings",
+            "Central Europe",
+            "Comfort Food",
+            "Hearty Meal",
+            "Pickled Onion",
+            "Rich Sauce",
+            "Savory Plate",
+            "Stewed Beef",
+            "Traditional Dish"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Traditional-Czech-Svickova-with-Dumplings.jpg",
+        "alt_text": "Plate of svíčková with sliced beef, creamy vegetable sauce, dumplings, and a dollop of cranberry sauce.",
+        "description": "A hearty serving of svíčková with tender beef in creamy root vegetable sauce, garnished with cranberries and paired with soft bread dumplings. A comforting and iconic dish from Czech culinary tradition.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/traditional-czech-svickova-with-dumplings/",
+        "tags": [
+            "Beef Dish",
+            "Bread Dumplings",
+            "Central Europe",
+            "Classic Recipe",
+            "Cranberry Garnish",
+            "Creamy Sauce",
+            "Czech Cuisine",
+            "Hearty Lunch",
+            "Savory Plate",
+            "Traditional Meal"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Old-Forest-Cabin-with-Tiled-Roof.jpg",
+        "alt_text": "Small rustic cabin with a tiled roof in a leaf-covered forest clearing surrounded by bare trees.",
+        "description": "This modest forest cabin with a slanted tiled roof and shuttered windows rests in a quiet clearing. Bare trees and fallen leaves surround the structure, creating a peaceful woodland atmosphere in late autumn or early winter.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/old-forest-cabin-with-tiled-roof/",
+        "tags": [
+            "Bare Trees",
+            "Cabin Clearing",
+            "Forest Cabin",
+            "Forest Structure",
+            "Green Shutters",
+            "Leaf Ground",
+            "Nature Shelter",
+            "Rustic Hut",
+            "Tiled Roof",
+            "Woodland Path"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Rustic-Village-Kitchen-with-Wooden-Furniture.jpg",
+        "alt_text": "Old-fashioned rural kitchen with wooden table, vintage stove, hanging herbs, and floral curtains.",
+        "description": "Step into a nostalgic village kitchen with a wooden dining table, retro stove, vintage cabinet, and dried herbs hanging from the ceiling. The space is accented by floral curtains and charming old-style cookware.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/rustic-village-kitchen-with-wooden-furniture/",
+        "tags": [
+            "Country Interior",
+            "Cozy Atmosphere",
+            "Farmhouse Style",
+            "Floral Curtains",
+            "Hanging Herbs",
+            "Old Furniture",
+            "Rustic Kitchen",
+            "Vintage Stove",
+            "Wooden Table"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Curved-Mining-Tunnel-with-Rusted-Supports.jpg",
+        "alt_text": "Curving underground mining tunnel with rusty beams, narrow tracks, and a drainage trench along the right side.",
+        "description": "This aged mine tunnel curves away under a canopy of rusted beams and wooden walls. The dirt floor holds a narrow pair of tracks and a shallow drainage channel, creating a gritty and industrial underground view.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/curved-mining-tunnel-with-rusted-supports/",
+        "tags": [
+            "Curved Tracks",
+            "Dirt Floor",
+            "Drainage Channel",
+            "Industrial Shaft",
+            "Mining Tunnel",
+            "Narrow Rails",
+            "Rusted Beams",
+            "Steel Frame",
+            "Underground Passage",
+            "Wooden Walls"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Old-Manual-Switch-in-Mine-Tunnel.jpg",
+        "alt_text": "Rusty manual track switch mounted on a cracked tunnel wall with worn mining rails and scattered debris below.",
+        "description": "This gritty underground shot highlights a rusted track switch mechanism built into a cracked tunnel wall. With broken rails and scattered stones, it offers a raw glimpse into the aged infrastructure of historical mining routes.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/old-manual-switch-in-mine-tunnel/",
+        "tags": [
+            "Broken Rails",
+            "Cracked Surface",
+            "Gravel Floor",
+            "Industrial Decay",
+            "Manual Control",
+            "Mining Switch",
+            "Rusted Lever",
+            "Track Junction",
+            "Tunnel Wall",
+            "Underground Mechanism"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Rusted-Rail-Junction-in-Mine-Tunnel.jpg",
+        "alt_text": "Close-up of a rusted rail junction in a dusty underground mining tunnel with scattered gravel and dim lighting.",
+        "description": "This detailed view captures a rusted switch point where underground mining rails split. Worn tracks, scattered gravel, and dark shadows reflect the passage of time in the tunnel’s rocky floor.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/rusted-rail-junction-in-mine-tunnel/",
+        "tags": [
+            "Abandoned Shaft",
+            "Gravel Surface",
+            "Metal Debris",
+            "Mining Floor",
+            "Rail Junction",
+            "Rusted Tracks",
+            "Switch Point",
+            "Track Detail",
+            "Tunnel Split",
+            "Underground Rails"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Deep-Mine-Tunnel-with-Pipes-and-Rails.jpg",
+        "alt_text": "Straight underground tunnel with rusty pipes, wooden walls, metal railings, and narrow mining tracks.",
+        "description": "Inside an aging mining tunnel, rusted pipes and wooden supports line the walls, while a set of iron gates and narrow rails guide the way deeper underground. The corridor is dim and industrial, evoking the harsh history of mining work.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/deep-mine-tunnel-with-pipes-and-rails/",
+        "tags": [
+            "Aging Structure",
+            "Dark Corridor",
+            "Industrial Shaft",
+            "Iron Gates",
+            "Metal Frame",
+            "Mining Tunnel",
+            "Rail Tracks",
+            "Rusty Pipes",
+            "Underground Passage",
+            "Wooden Walls"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Rusty-Switch-Tracks-in-Mining-Tunnel.jpg",
+        "alt_text": "Underground mine tunnel with rusty track switch, steel walls, and a metal ladder in the dark background.",
+        "description": "An underground tunnel showcases a rusted railway switch, aged metal supports, and muddy terrain. A metal ladder is barely visible in the darkness ahead, suggesting deeper access into the mining shaft.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/rusty-switch-tracks-in-mining-tunnel/",
+        "tags": [
+            "Abandoned Mine",
+            "Dirt Floor",
+            "Industrial Tunnel",
+            "Manual Switch",
+            "Mining Shaft",
+            "Rusted Tracks",
+            "Steel Walls",
+            "Track Divergence",
+            "Tunnel Switch",
+            "Underground Ladder"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Abandoned-Underground-Mining-Tunnel.jpg",
+        "alt_text": "Dimly lit mining tunnel with metal supports, rocky floor, and narrow railway tracks curving into darkness.",
+        "description": "Explore the depths of an old mining tunnel where curving tracks disappear into shadows. Wooden and steel reinforcements line the walls, creating a haunting underground passage with a sense of industrial history.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/abandoned-underground-mining-tunnel/",
+        "tags": [
+            "Abandoned Mine",
+            "Curved Tracks",
+            "Dark Corridor",
+            "Industrial Remains",
+            "Mining Tunnel",
+            "Rocky Floor",
+            "Shadow Depths",
+            "Steel Support",
+            "Tunnel Structure",
+            "Underground Passage"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/IT-Technician-Working-in-Data-Center.jpg",
+        "alt_text": "A man with a laptop inspects a server rack in a data center while wearing a blue shirt and ID badge.",
+        "description": "An IT professional inspects servers in a modern data center while referencing a laptop. Dressed in a blue shirt with an ID badge, he checks the hardware surrounded by glowing lights and network cables in a high-tech, secure environment.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/it-technician-working-in-data-center/",
+        "tags": [
+            "Blue Shirt",
+            "Data Center",
+            "IT Technician",
+            "Laptop Use",
+            "Network Cables",
+            "Secure Facility",
+            "Server Inspection",
+            "Server Room",
+            "System Monitoring",
+            "Tech Maintenance"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Focused-Artist-Painting-Female-Portrait.jpg",
+        "alt_text": "A woman paints a detailed portrait of another woman on canvas while holding a palette in a sunlit studio.",
+        "description": "In a sunlit studio, a woman concentrates on finishing a painted portrait of a woman with natural hair. With a palette in hand and a thoughtful gaze, she carefully applies detail to the canvas, surrounded by creative energy and muted colors.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/focused-artist-painting-female-portrait/",
+        "tags": [
+            "Art Studio",
+            "Artistic Expression",
+            "Canvas Portrait",
+            "Creative Focus",
+            "Cultural Art",
+            "Female Artist",
+            "Natural Light",
+            "Oil Painting",
+            "Painter Woman",
+            "Painting Session"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Smiling-Woman-Walking-Bike-Through-City-Street.jpg",
+        "alt_text": "A smiling woman in a denim jacket walks a bicycle down a quiet city street lined with parked cars and buildings.",
+        "description": "A smiling young woman pushes her bike through a quiet downtown street, dressed in casual chic with a denim jacket and leather bag. The surrounding buildings and soft lighting highlight a relaxed yet confident urban vibe.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/smiling-woman-walking-bike-through-city-street/",
+        "tags": [
+            "Bike Commute",
+            "Casual Outfit",
+            "City Stroll",
+            "Confident Woman",
+            "Denim Jacket",
+            "Natural Hair",
+            "Smiling Pose",
+            "Street Fashion",
+            "Urban Style",
+            "Walking Bicycle"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Elderly-Man-Reading-Newspaper-on-Park-Bench.jpg",
+        "alt_text": "An elderly man in a tan blazer reads a newspaper while sitting alone on a wooden bench in a green park.",
+        "description": "An older man dressed in a tan blazer and blue shirt reads the newspaper on a bench in a quiet park. His focused expression and the serene outdoor setting reflect a peaceful morning routine surrounded by trees and walking paths.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/elderly-man-reading-newspaper-on-park-bench/",
+        "tags": [
+            "Elderly Man",
+            "Leisure Time",
+            "Morning Routine",
+            "Natural Light",
+            "Outdoor Reading",
+            "Park Bench",
+            "Quiet Moment",
+            "Reading Newspaper",
+            "Senior Citizen",
+            "Thoughtful Pose"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Focused-Businessman-Working-in-Cafe.jpg",
+        "alt_text": "A man in a suit types on a laptop at a café table with a cup of coffee beside him.",
+        "description": "A young man in a business suit concentrates on his laptop while seated at a coffee shop. The warm lighting and a cappuccino beside him create a cozy yet professional remote work setting.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/focused-businessman-working-in-cafe/",
+        "tags": [
+            "Business Attire",
+            "Cafe Interior",
+            "Cappuccino Cup",
+            "Coffee Shop",
+            "Dark Suit",
+            "Laptop Focus",
+            "Productive Morning",
+            "Remote Work",
+            "Wooden Table",
+            "Young Professional"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Couple-Enjoying-Wine-Picnic-in-Park.jpg",
+        "alt_text": "A smiling couple sits on a picnic blanket in a park, holding wine glasses with fruit and bread on a wooden board.",
+        "description": "This cheerful outdoor moment shows a couple enjoying a sunny picnic with white wine, fresh fruit, and bread. They laugh together while seated on a red plaid blanket, surrounded by green grass and trees in a peaceful park setting.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/couple-enjoying-wine-picnic-in-park/",
+        "tags": [
+            "Fruit Platter",
+            "Green Grass",
+            "Happy Couple",
+            "Outdoor Date",
+            "Park Setting",
+            "Picnic Blanket",
+            "Romantic Moment",
+            "Smiling Faces",
+            "Summer Vibes",
+            "Wine Picnic"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Elderly-Woman-in-Colorful-Traditional-Clothing.jpg",
+        "alt_text": "An older woman wearing a red headwrap and teal shawl looks forward under soft light near a window.",
+        "description": "This portrait features an elderly woman in a vibrant headwrap and shawl, seated near a window with soft natural light. Her thoughtful eyes, elegant earrings, and colorful garments convey a strong sense of heritage and poise.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/elderly-woman-in-colorful-traditional-clothing/",
+        "tags": [
+            "Calm Expression",
+            "Cultural Portrait",
+            "Elderly Woman",
+            "Ethnic Jewelry",
+            "Heritage Fashion",
+            "Red Headwrap",
+            "Soft Lighting",
+            "Teal Shawl",
+            "Traditional Clothing",
+            "Window Light"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Elderly-Woman-in-Traditional-Headwrap.jpg",
+        "alt_text": "An elderly woman with deep-set eyes wears a patterned headwrap and gold earrings in soft window light.",
+        "description": "This expressive portrait features an elderly woman in a red patterned headwrap and earrings, captured in soft natural light near a window. Her thoughtful gaze and traditional clothing evoke dignity and heritage.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/elderly-woman-in-traditional-headwrap/",
+        "tags": [
+            "Calm Expression",
+            "Cultural Dress",
+            "Elderly Woman",
+            "Gold Earrings",
+            "Heritage Style",
+            "Rich Textiles",
+            "Soft Lighting",
+            "Traditional Headwrap",
+            "Window Portrait",
+            "Wrinkled Face"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Family-Reading-Together-on-Cozy-Evening.jpg",
+        "alt_text": "A family of four sits close on a couch, smiling while reading a large illustrated book under warm lighting.",
+        "description": "A joyful family shares a bedtime story on the couch. The parents and two children smile as they read from a large illustrated book, surrounded by soft lighting and evening comfort.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/family-reading-together-on-cozy-evening/",
+        "tags": [
+            "Bedtime Story",
+            "Cozy Night",
+            "Evening Routine",
+            "Family Reading",
+            "Home Comfort",
+            "Parental Bond",
+            "Smiling Children",
+            "Story Time",
+            "Together Moment",
+            "Warm Lighting"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Happy-Family-Sharing-Breakfast-Together.jpg",
+        "alt_text": "A smiling mother and two children enjoy breakfast at a wooden table with toast, juice, berries, and sausages.",
+        "description": "A joyful mother shares a warm breakfast with her two children. The boy eats toast, the girl smiles over a hearty plate, and the table is filled with colorful fruit, juice, and fresh flowers in a vase, creating a comforting family moment.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/happy-family-sharing-breakfast-together/",
+        "tags": [
+            "Colorful Food",
+            "Cozy Morning",
+            "Dining Table",
+            "Family Breakfast",
+            "Fresh Juice",
+            "Happy Children",
+            "Morning Meal",
+            "Sibling Bond",
+            "Smiling Mother",
+            "Toast Plate"
+        ]
+    },
+    {
+        "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Grandmother-Smiling-While-Holding-Baby.jpg",
+        "alt_text": "An older woman smiles warmly while holding a baby in a white onesie on a porch.",
+        "description": "A smiling grandmother holds a baby in her arms outside a home, standing on a porch with trees and lawn visible in the background. The baby is wearing a white onesie and looking ahead while nestled comfortably.",
+        "license": "CC BY 4.0",
+        "source": "https://www.pixplet.com/grandmother-smiling-while-holding-baby/",
+        "tags": [
+            "Baby Expression",
+            "Elderly Woman",
+            "Family Bond",
+            "Generational Love",
+            "Holding Baby",
+            "Infant Care",
+            "Loving Embrace",
+            "Outdoor Portrait",
+            "Porch Moment",
+            "Smiling Grandmother"
+        ]
+    },
+    {
         "image_url": "https://www.pixplet.com/wp-content/uploads/2025/06/Savory-Pancake-with-Stew-Cheese-and-Pickles.jpg",
         "alt_text": "A savory pancake filled with meat and vegetables, topped with shredded cheese, served with pickles and salad.",
         "description": "This savory pancake is stuffed with a rich meat and vegetable stew and topped with shredded cheese. Served with tangy pickles and a fresh salad, it makes for a hearty and flavorful meal.",
